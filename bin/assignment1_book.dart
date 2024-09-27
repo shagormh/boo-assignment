@@ -1,8 +1,8 @@
 class BOOK{
   late String title;
   late String author;
-  String publicationYear;
-  String pagesRead;
+  late String publicationYear;
+  late String pagesRead;
 
 }
 
